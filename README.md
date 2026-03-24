@@ -76,6 +76,9 @@ _Add screenshots here_
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/reporting-data-quality-checker.git
+cd impact-scenario-simulator
+pip install -r requirements.txt
+streamlit run app.pyps://github.com/YOUR-USERNAME/reporting-data-quality-checker.git
 cd reporting-data-quality-checker
 pip install -r requirements.txt
 streamlit run app.py
